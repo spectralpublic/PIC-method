@@ -19,14 +19,7 @@ python train.py --dataset sysu
 
   - `--dataset`: select dataset between "sysu" or "regdb".
 
-### 3. Referneces
-
-[1] Ye M , Shen J , Lin G , et al. Deep Learning for Person Re-identification: A Survey and Outlook[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021, PP(99):1-1.
-
-[2] https://github.com/mangye16/Cross-Modal-Re-ID-baseline
-
-
-### 4. Related work 
+### 3. Related work 
 
 If you find the code and dataset useful in your research, please consider citing:
  

@@ -26,7 +26,7 @@ python train.py --dataset sysu
 [2] https://github.com/mangye16/Cross-Modal-Re-ID-baseline
 
 
-### 3. Related work 
+### 4. Related work 
 
 If you find the code and dataset useful in your research, please consider citing:
  
